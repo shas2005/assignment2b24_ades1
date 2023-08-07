@@ -10,7 +10,7 @@ class HomeScreen extends React.Component
     {
         return (
             <div className='Main'>
-                <h1>HomeScreen</h1>
+                <h1>HomeScreen!</h1>
             </div>
         );
     }
